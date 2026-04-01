@@ -156,6 +156,7 @@ button{
     font-weight: bolder;
     cursor: pointer;
 }
+
 button:hover{
     background-color: #2fa3d4;
     color: white;
