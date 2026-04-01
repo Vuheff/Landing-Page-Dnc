@@ -1,15 +1,26 @@
-# Technology
+# Project Title
 
-## Badges
+![HTML Badge](https://img.shields.io/badge/HTML-HTML%20Language-orange?style=flat-square&logo=html5&logoColor=ffffff) ![CSS Badge](https://img.shields.io/badge/CSS-CSS%20Language-blue?style=flat-square&logo=css3&logoColor=ffffff) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-JavaScript%20Language-yellow?style=flat-square&logo=javascript&logoColor=ffffff)
 
-![HTML](https://img.shields.io/badge/HTML-v5.0-blue)
-![CSS](https://img.shields.io/badge/CSS-v3.0-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+## Preview
 
-## Language Statistics
+(Insert project preview here)
 
-- **HTML**: 45%  
-- **CSS**: 35%  
-- **JavaScript**: 20% 
+## Technologies
+- HTML
+- CSS
+- JavaScript
 
-This section outlines the technologies used in this project. The main focus is on HTML, CSS, and JavaScript, which are essential for creating dynamic and responsive web applications.
+## Functionalities
+- (List functionalities here)
+
+## How to Run the Project
+- (Insert instructions here)
+
+
+
+---
+
+
+
+
