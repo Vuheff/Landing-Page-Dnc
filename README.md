@@ -7,7 +7,8 @@
 
 ## Preview
 
-(Insert project preview here)
+<img width="1889" height="518" alt="image" src="https://github.com/user-attachments/assets/458b53af-478b-4903-9f7b-6ccfd661394e" />
+
 
 ## Technologies
 - HTML
