@@ -1,40 +1,26 @@
-# 🚀 Landing Page
+# Project Title
 
-Landing page desenvolvida para prática de HTML, CSS e JavaScript, com foco em estruturação, estilização e interatividade.
+![HTML Badge](https://img.shields.io/badge/HTML-HTML%20Language-orange?style=flat-square&logo=html5&logoColor=ffffff) ![CSS Badge](https://img.shields.io/badge/CSS-CSS%20Language-blue?style=flat-square&logo=css3&logoColor=ffffff) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-JavaScript%20Language-yellow?style=flat-square&logo=javascript&logoColor=ffffff)
 
-Projeto criado como parte do meu aprendizado contínuo como desenvolvedor júnior.
+## Preview
 
----
+(Insert project preview here)
 
-## 📸 Preview
-<img width="1898" height="519" alt="image" src="https://github.com/user-attachments/assets/04039d41-f2d8-4cab-b9db-11098ae2f534" />
+## Technologies
+- HTML
+- CSS
+- JavaScript
 
----
-## 🛠️ Tecnologias Utilizadas
+## Functionalities
+- (List functionalities here)
 
-- HTML → Estrutura da página  
-- CSS → Estilização e layout responsivo  
-- JavaScript → Interatividade e comportamento da aplicação  
+## How to Run the Project
+- (Insert instructions here)
 
----
 
-## ⚙️ Funcionalidades
-
-- Layout responsivo  
-- Estrutura organizada  
-- Interações com JavaScript  
-- Interface simples e moderna  
 
 ---
 
-## 📂 Como executar o projeto
 
-```bash
-# Clone o repositório
-git clone https://github.com/Vuheff/Landing-Page-Dnc.git
 
-# Acesse a pasta
-cd Landing-Page-Dnc
 
-# Abra o arquivo
-index.html
