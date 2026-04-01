@@ -9,9 +9,7 @@ Projeto criado como parte do meu aprendizado contínuo como desenvolvedor júnio
 ## 📸 Preview
 <img width="1898" height="519" alt="image" src="https://github.com/user-attachments/assets/04039d41-f2d8-4cab-b9db-11098ae2f534" />
 
-
 ---
-
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML → Estrutura da página  
