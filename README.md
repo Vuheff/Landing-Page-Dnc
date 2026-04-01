@@ -1,40 +1,15 @@
-# 🚀 Landing Page
+# Technology
 
-Landing page desenvolvida para prática de HTML, CSS e JavaScript, com foco em estruturação, estilização e interatividade.
+## Badges
 
-Projeto criado como parte do meu aprendizado contínuo como desenvolvedor júnior.
+![HTML](https://img.shields.io/badge/HTML-v5.0-blue)
+![CSS](https://img.shields.io/badge/CSS-v3.0-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
----
+## Language Statistics
 
-## 📸 Preview
-<img width="1898" height="519" alt="image" src="https://github.com/user-attachments/assets/04039d41-f2d8-4cab-b9db-11098ae2f534" />
+- **HTML**: 45%  
+- **CSS**: 35%  
+- **JavaScript**: 20% 
 
----
-## 🛠️ Tecnologias Utilizadas
-
-- HTML → Estrutura da página  
-- CSS → Estilização e layout responsivo  
-- JavaScript → Interatividade e comportamento da aplicação  
-
----
-
-## ⚙️ Funcionalidades
-
-- Layout responsivo  
-- Estrutura organizada  
-- Interações com JavaScript  
-- Interface simples e moderna  
-
----
-
-## 📂 Como executar o projeto
-
-```bash
-# Clone o repositório
-git clone https://github.com/Vuheff/Landing-Page-Dnc.git
-
-# Acesse a pasta
-cd Landing-Page-Dnc
-
-# Abra o arquivo
-index.html
+This section outlines the technologies used in this project. The main focus is on HTML, CSS, and JavaScript, which are essential for creating dynamic and responsive web applications.
