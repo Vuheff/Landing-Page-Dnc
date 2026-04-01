@@ -1,0 +1,165 @@
+/* ================= RESET GLOBAL ================= */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+
+/* ================= MENU SUPERIOR ================= */
+
+#menusuperior {
+    background-image: url(img/fundo-menusuperior.svg);
+    background-size: cover;
+    color: white;
+    padding-bottom: 80px;
+}
+
+#logo {
+    margin: 50px 0 0 50px;
+}
+
+#title-menusuperior {
+    margin: 50px 0 0 150px;
+}
+
+#text-menusuperior {
+    margin: 35px 0 0 150px;
+}
+
+
+/* ================= MENU INFORMAÇÕES ================= */
+
+#menuinfo {
+    background-color: #EAECE5;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    text-align: center;
+    padding: 20px;
+}
+
+.txtinfo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icone {
+    margin: 20px 10px;
+}
+
+
+/* ================= SEÇÃO DE VÍDEO ================= */
+
+#videodnc {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    align-items: center;
+    padding: 40px 20px;
+    gap: 40px;
+    margin-left: 100px;
+}
+
+#video {
+    width: 100%;
+    height: 500px;
+}
+
+#videotitle {
+    color: #247BA0;
+    margin-bottom: 20px;
+}
+
+#videotext {
+    line-height: 1.5;
+}
+
+
+/* ================= CARROSSEL ================= */
+
+#carrossel {
+    background-color: #247BA0;
+    padding: 100px 20px;
+    display: grid;
+    gap: 30px;
+}
+
+#carrosseltitle {
+    color: #EAECE5;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 20px;
+    margin-top: -50px;
+}
+
+#cards {
+    display: grid;
+    grid-auto-flow: column;
+    align-items: center;
+    justify-items: center;
+    gap: 30px;
+    margin: 0 auto;
+}
+
+.card {
+    width: 100%;
+}
+
+#seta-esquerda {
+  display: none;
+}
+
+#Bruna {
+  display: none;
+}
+
+.seta {
+  margin-top: 55%;
+  cursor: pointer;
+}
+
+.seta:hover{
+    transform: translateY(-7px);
+    transition-duration: 0.2s;
+}
+ 
+#formulario{
+    text-align: center;
+
+}
+
+#titulo-formulario{
+    font-size: 25px;
+    margin: 25px;
+    color: #383838;
+}
+
+input{
+    width: 413px;
+    height: 50px;
+    background-color: #EAECE5;
+    margin: 15px;
+    border: 0px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+button{
+    background-color: #247BA0;
+    color: white;
+    width: 200px;
+    height: 50px;
+    border: 0px;
+    border-radius: 10px;
+    margin: 20px 0 50px 0;
+    font-weight: bolder;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #2fa3d4;
+    color: white;
+    transform: translateY(-7px);
+    box-shadow: 0px 10px 10px #3e59645e;
+    transition-duration: 0.5s;
+}
